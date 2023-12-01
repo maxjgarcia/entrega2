@@ -1,0 +1,112 @@
+[
+    {
+      "id": 1,
+      "title": "Honda",
+      "description": "Honda",
+      "code": "0277e718-51d5-491d-a3b4-bc8921e027d0",
+      "price": 9153,
+      "stock": 10,
+      "thumbnail": [
+        "https://marcasdecoches.info/wp-content/uploads/2020/05/logotipo-actual-de-honda.jpg?ezimgfmt=ng%3Awebp%2Fngcb1%2Frs%3Adevice%2Frscb1-1"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Mini Cooper",
+      "description": "Mini Cooper",
+      "code": "0277e718-51d5-491d-a3b4-bc8921e027d1",
+      "price": 4438,
+      "stock": 10,
+      "thumbnail": [
+        "https://acnews.blob.core.windows.net/imgnews/extralarge/NAZ_16d81085f2a64be09e1a0b9c55eb04b9.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Mitsubishi",
+      "description": "Mitsubishi",
+      "code": "0277e718-51d5-491d-a3b4-bc8921e027d2",
+      "price": 9153,
+      "stock": 10,
+      "thumbnail": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Mitsubishi_motors_new_logo.svg/169px-Mitsubishi_motors_new_logo.svg.png"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Toyota",
+      "description": "Toyota",
+      "code": "0277e718-51d5-491d-a3b4-bc8921e027d3",
+      "price": 9153,
+      "stock": 10,
+      "thumbnail": [
+        "https://www.toyota.com.ar/images/logos/logo-toyota.svg"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Smart",
+      "description": "Smart",
+      "code": "0277e718-51d5-491d-a3b4-bc8921e027d4",
+      "price": 9153,
+      "stock": 10,
+      "thumbnail": [
+        "https://www.smart.mercedes-benz.com/logo.svg"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Oldsmobile",
+      "description": "Oldsmobile",
+      "code": "0277e718-51d5-491d-a3b4-bc8921e027d5",
+      "price": 9153,
+      "stock": 10,
+      "thumbnail": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Oldsmobile_logo_used_from_1981_until_1997.svg/245px-Oldsmobile_logo_used_from_1981_until_1997.svg.png"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Subaru",
+      "description": "Subaru",
+      "code": "0277e718-51d5-491d-a3b4-bc8921e027d6",
+      "price": 9153,
+      "stock": 10,
+      "thumbnail": [
+        "https://motor.elpais.com/wp-content/uploads/2022/05/Subaru-logo-2048x1152.webp"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Renault",
+      "description": "Renault",
+      "code": "0277e718-51d5-491d-a3b4-bc8921e027d7",
+      "price": 9153,
+      "stock": 10,
+      "thumbnail": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Renault_2021_Text.svg/120px-Renault_2021_Text.svg.png"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Dodge",
+      "description": "Dodge",
+      "code": "0277e718-51d5-491d-a3b4-bc8921e027d8",
+      "price": 9153,
+      "stock": 10,
+      "thumbnail": [
+        "https://www.excelenciasdelmotor.com/sites/default/files/sites/default/files/imagenes-portada-ffp/dodge_0.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Ford",
+      "description": "Ford",
+      "code": "0277e718-51d5-491d-a3b4-bc8921e027d9",
+      "price": 9153,
+      "stock": 10,
+      "thumbnail": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a0/Ford_Motor_Company_Logo.svg"
+      ]
+    }
+  ]
